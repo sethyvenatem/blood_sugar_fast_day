@@ -1,324 +1,324 @@
-,EventDateStr,EventTimeStr,Value,EventType
-2024-07-03 06:01:00,03-July-2024,06:01 AM,12.4,glucose_measurement
-2024-07-03 06:06:00,03-July-2024,06:06 AM,12.5,glucose_measurement
-2024-07-03 06:11:00,03-July-2024,06:11 AM,12.7,glucose_measurement
-2024-07-03 06:16:00,03-July-2024,06:16 AM,12.4,glucose_measurement
-2024-07-03 06:21:00,03-July-2024,06:21 AM,12.4,glucose_measurement
-2024-07-03 06:26:00,03-July-2024,06:26 AM,12.3,glucose_measurement
-2024-07-03 06:31:00,03-July-2024,06:31 AM,12.0,glucose_measurement
-2024-07-03 06:36:00,03-July-2024,06:36 AM,11.8,glucose_measurement
-2024-07-03 06:40:00,03-July-2024,06:40 AM,12.1,calibration
-2024-07-03 06:41:00,03-July-2024,06:41 AM,11.5,glucose_measurement
-2024-07-03 06:42:00,03-July-2024,06:42 AM,17.0,long_insulin_u
-2024-07-03 06:44:00,03-July-2024,06:44 AM,3.0,rapid_insulin_u
-2024-07-03 06:46:00,03-July-2024,06:46 AM,12.0,glucose_measurement
-2024-07-03 06:51:00,03-July-2024,06:51 AM,12.2,glucose_measurement
-2024-07-03 06:56:00,03-July-2024,06:56 AM,12.2,glucose_measurement
-2024-07-03 07:01:00,03-July-2024,07:01 AM,12.2,glucose_measurement
-2024-07-03 07:06:00,03-July-2024,07:06 AM,12.2,glucose_measurement
-2024-07-03 07:11:00,03-July-2024,07:11 AM,12.0,glucose_measurement
-2024-07-03 07:16:00,03-July-2024,07:16 AM,12.0,glucose_measurement
-2024-07-03 07:21:00,03-July-2024,07:21 AM,11.9,glucose_measurement
-2024-07-03 07:26:00,03-July-2024,07:26 AM,12.0,glucose_measurement
-2024-07-03 07:31:00,03-July-2024,07:31 AM,11.8,glucose_measurement
-2024-07-03 07:36:00,03-July-2024,07:36 AM,11.5,glucose_measurement
-2024-07-03 07:41:00,03-July-2024,07:41 AM,11.1,glucose_measurement
-2024-07-03 07:46:00,03-July-2024,07:46 AM,10.9,glucose_measurement
-2024-07-03 07:51:00,03-July-2024,07:51 AM,10.7,glucose_measurement
-2024-07-03 07:56:00,03-July-2024,07:56 AM,10.3,glucose_measurement
-2024-07-03 08:01:00,03-July-2024,08:01 AM,9.8,glucose_measurement
-2024-07-03 08:06:00,03-July-2024,08:06 AM,9.7,glucose_measurement
-2024-07-03 08:11:00,03-July-2024,08:11 AM,9.6,glucose_measurement
-2024-07-03 08:16:00,03-July-2024,08:16 AM,9.4,glucose_measurement
-2024-07-03 08:21:00,03-July-2024,08:21 AM,9.2,glucose_measurement
-2024-07-03 08:26:00,03-July-2024,08:26 AM,9.1,glucose_measurement
-2024-07-03 08:31:00,03-July-2024,08:31 AM,8.8,glucose_measurement
-2024-07-03 08:36:00,03-July-2024,08:36 AM,8.5,glucose_measurement
-2024-07-03 08:41:00,03-July-2024,08:41 AM,8.5,glucose_measurement
-2024-07-03 08:46:00,03-July-2024,08:46 AM,8.4,glucose_measurement
-2024-07-03 08:51:00,03-July-2024,08:51 AM,8.1,glucose_measurement
-2024-07-03 08:56:00,03-July-2024,08:56 AM,7.9,glucose_measurement
-2024-07-03 09:01:00,03-July-2024,09:01 AM,7.9,glucose_measurement
-2024-07-03 09:06:00,03-July-2024,09:06 AM,7.9,glucose_measurement
-2024-07-03 09:11:00,03-July-2024,09:11 AM,7.5,glucose_measurement
-2024-07-03 09:16:00,03-July-2024,09:16 AM,7.4,glucose_measurement
-2024-07-03 09:21:00,03-July-2024,09:21 AM,7.3,glucose_measurement
-2024-07-03 09:26:00,03-July-2024,09:26 AM,7.2,glucose_measurement
-2024-07-03 09:31:00,03-July-2024,09:31 AM,7.2,glucose_measurement
-2024-07-03 09:36:00,03-July-2024,09:36 AM,6.9,glucose_measurement
-2024-07-03 09:41:00,03-July-2024,09:41 AM,6.8,glucose_measurement
-2024-07-03 09:46:00,03-July-2024,09:46 AM,6.7,glucose_measurement
-2024-07-03 09:51:00,03-July-2024,09:51 AM,6.5,glucose_measurement
-2024-07-03 09:56:00,03-July-2024,09:56 AM,6.5,glucose_measurement
-2024-07-03 10:01:00,03-July-2024,10:01 AM,6.5,glucose_measurement
-2024-07-03 10:06:00,03-July-2024,10:06 AM,6.5,glucose_measurement
-2024-07-03 10:11:00,03-July-2024,10:11 AM,6.4,glucose_measurement
-2024-07-03 10:16:00,03-July-2024,10:16 AM,6.3,glucose_measurement
-2024-07-03 10:21:00,03-July-2024,10:21 AM,6.1,glucose_measurement
-2024-07-03 10:26:00,03-July-2024,10:26 AM,6.2,glucose_measurement
-2024-07-03 10:31:00,03-July-2024,10:31 AM,6.2,glucose_measurement
-2024-07-03 10:36:00,03-July-2024,10:36 AM,6.1,glucose_measurement
-2024-07-03 10:41:00,03-July-2024,10:41 AM,5.9,glucose_measurement
-2024-07-03 10:46:00,03-July-2024,10:46 AM,6.0,glucose_measurement
-2024-07-03 10:51:00,03-July-2024,10:51 AM,6.0,glucose_measurement
-2024-07-03 10:56:00,03-July-2024,10:56 AM,6.0,glucose_measurement
-2024-07-03 11:01:00,03-July-2024,11:01 AM,5.9,glucose_measurement
-2024-07-03 11:06:00,03-July-2024,11:06 AM,5.8,glucose_measurement
-2024-07-03 11:11:00,03-July-2024,11:11 AM,5.7,glucose_measurement
-2024-07-03 11:16:00,03-July-2024,11:16 AM,5.7,glucose_measurement
-2024-07-03 11:21:00,03-July-2024,11:21 AM,5.7,glucose_measurement
-2024-07-03 11:26:00,03-July-2024,11:26 AM,5.5,glucose_measurement
-2024-07-03 11:31:00,03-July-2024,11:31 AM,5.5,glucose_measurement
-2024-07-03 11:36:00,03-July-2024,11:36 AM,5.5,glucose_measurement
-2024-07-03 11:41:00,03-July-2024,11:41 AM,5.6,glucose_measurement
-2024-07-03 11:46:00,03-July-2024,11:46 AM,5.6,glucose_measurement
-2024-07-03 11:51:00,03-July-2024,11:51 AM,5.5,glucose_measurement
-2024-07-03 11:56:00,03-July-2024,11:56 AM,5.4,glucose_measurement
-2024-07-03 12:01:00,03-July-2024,12:01 PM,5.4,glucose_measurement
-2024-07-03 12:06:00,03-July-2024,12:06 PM,5.3,glucose_measurement
-2024-07-03 12:10:00,03-July-2024,12:10 PM,40.0,medium_exercise_min
-2024-07-03 12:11:00,03-July-2024,12:11 PM,5.2,glucose_measurement
-2024-07-03 12:16:00,03-July-2024,12:16 PM,5.3,glucose_measurement
-2024-07-03 12:21:00,03-July-2024,12:21 PM,5.2,glucose_measurement
-2024-07-03 12:26:00,03-July-2024,12:26 PM,5.0,glucose_measurement
-2024-07-03 12:31:00,03-July-2024,12:31 PM,4.9,glucose_measurement
-2024-07-03 12:36:00,03-July-2024,12:36 PM,4.9,glucose_measurement
-2024-07-03 12:41:00,03-July-2024,12:41 PM,4.9,glucose_measurement
-2024-07-03 12:46:00,03-July-2024,12:46 PM,4.9,glucose_measurement
-2024-07-03 12:51:00,03-July-2024,12:51 PM,4.8,glucose_measurement
-2024-07-03 12:56:00,03-July-2024,12:56 PM,4.7,glucose_measurement
-2024-07-03 13:01:00,03-July-2024,01:01 PM,4.5,glucose_measurement
-2024-07-03 13:06:00,03-July-2024,01:06 PM,4.5,glucose_measurement
-2024-07-03 13:11:00,03-July-2024,01:11 PM,4.5,glucose_measurement
-2024-07-03 13:16:00,03-July-2024,01:16 PM,4.3,glucose_measurement
-2024-07-03 13:21:00,03-July-2024,01:21 PM,4.2,glucose_measurement
-2024-07-03 13:26:00,03-July-2024,01:26 PM,4.1,glucose_measurement
-2024-07-03 13:31:00,03-July-2024,01:31 PM,4.1,glucose_measurement
-2024-07-03 13:36:00,03-July-2024,01:36 PM,3.8,glucose_measurement
-2024-07-03 13:38:00,03-July-2024,01:38 PM,10.0,rapid_glucose_g
-2024-07-03 13:41:00,03-July-2024,01:41 PM,3.7,glucose_measurement
-2024-07-03 13:46:00,03-July-2024,01:46 PM,3.6,glucose_measurement
-2024-07-03 13:51:00,03-July-2024,01:51 PM,3.6,glucose_measurement
-2024-07-03 13:56:00,03-July-2024,01:56 PM,3.4,glucose_measurement
-2024-07-03 14:01:00,03-July-2024,02:01 PM,3.4,glucose_measurement
-2024-07-03 14:06:00,03-July-2024,02:06 PM,3.8,glucose_measurement
-2024-07-03 14:11:00,03-July-2024,02:11 PM,4.6,glucose_measurement
-2024-07-03 14:16:00,03-July-2024,02:16 PM,5.2,glucose_measurement
-2024-07-03 14:21:00,03-July-2024,02:21 PM,5.3,glucose_measurement
-2024-07-03 14:26:00,03-July-2024,02:26 PM,5.6,glucose_measurement
-2024-07-03 14:31:00,03-July-2024,02:31 PM,5.8,glucose_measurement
-2024-07-03 14:36:00,03-July-2024,02:36 PM,6.3,glucose_measurement
-2024-07-03 14:41:00,03-July-2024,02:41 PM,6.8,glucose_measurement
-2024-07-03 14:46:00,03-July-2024,02:46 PM,7.2,glucose_measurement
-2024-07-03 14:51:00,03-July-2024,02:51 PM,7.3,glucose_measurement
-2024-07-03 14:56:00,03-July-2024,02:56 PM,7.4,glucose_measurement
-2024-07-03 15:01:00,03-July-2024,03:01 PM,7.3,glucose_measurement
-2024-07-03 15:06:00,03-July-2024,03:06 PM,7.2,glucose_measurement
-2024-07-03 15:11:00,03-July-2024,03:11 PM,6.9,glucose_measurement
-2024-07-03 15:16:00,03-July-2024,03:16 PM,6.9,glucose_measurement
-2024-07-03 15:21:00,03-July-2024,03:21 PM,6.8,glucose_measurement
-2024-07-03 15:26:00,03-July-2024,03:26 PM,6.8,glucose_measurement
-2024-07-03 15:31:00,03-July-2024,03:31 PM,6.7,glucose_measurement
-2024-07-03 15:36:00,03-July-2024,03:36 PM,6.7,glucose_measurement
-2024-07-03 15:41:00,03-July-2024,03:41 PM,6.5,glucose_measurement
-2024-07-03 15:46:00,03-July-2024,03:46 PM,6.6,glucose_measurement
-2024-07-03 15:51:00,03-July-2024,03:51 PM,6.4,glucose_measurement
-2024-07-03 15:56:00,03-July-2024,03:56 PM,6.5,glucose_measurement
-2024-07-03 16:01:00,03-July-2024,04:01 PM,6.4,glucose_measurement
-2024-07-03 16:06:00,03-July-2024,04:06 PM,6.4,glucose_measurement
-2024-07-03 16:11:00,03-July-2024,04:11 PM,6.3,glucose_measurement
-2024-07-03 16:16:00,03-July-2024,04:16 PM,6.3,glucose_measurement
-2024-07-03 16:21:00,03-July-2024,04:21 PM,6.2,glucose_measurement
-2024-07-03 16:26:00,03-July-2024,04:26 PM,6.2,glucose_measurement
-2024-07-03 16:31:00,03-July-2024,04:31 PM,6.0,glucose_measurement
-2024-07-03 16:36:00,03-July-2024,04:36 PM,6.2,glucose_measurement
-2024-07-03 16:41:00,03-July-2024,04:41 PM,6.1,glucose_measurement
-2024-07-03 16:46:00,03-July-2024,04:46 PM,6.0,glucose_measurement
-2024-07-03 16:51:00,03-July-2024,04:51 PM,5.9,glucose_measurement
-2024-07-03 16:56:00,03-July-2024,04:56 PM,5.9,glucose_measurement
-2024-07-03 17:01:00,03-July-2024,05:01 PM,5.9,glucose_measurement
-2024-07-03 17:06:00,03-July-2024,05:06 PM,5.8,glucose_measurement
-2024-07-03 17:11:00,03-July-2024,05:11 PM,5.7,glucose_measurement
-2024-07-03 17:16:00,03-July-2024,05:16 PM,5.6,glucose_measurement
-2024-07-03 17:21:00,03-July-2024,05:21 PM,5.5,glucose_measurement
-2024-07-03 17:26:00,03-July-2024,05:26 PM,5.5,glucose_measurement
-2024-07-03 17:31:00,03-July-2024,05:31 PM,5.5,glucose_measurement
-2024-07-03 17:36:00,03-July-2024,05:36 PM,5.4,glucose_measurement
-2024-07-03 17:41:00,03-July-2024,05:41 PM,5.3,glucose_measurement
-2024-07-03 17:46:00,03-July-2024,05:46 PM,5.2,glucose_measurement
-2024-07-03 17:51:00,03-July-2024,05:51 PM,5.1,glucose_measurement
-2024-07-03 17:56:00,03-July-2024,05:56 PM,10.0,rapid_glucose_g
-2024-07-03 17:56:00,03-July-2024,05:56 PM,5.1,glucose_measurement
-2024-07-03 18:00:00,03-July-2024,06:00 PM,60.0,high_exercise_min
-2024-07-03 18:01:00,03-July-2024,06:01 PM,5.0,glucose_measurement
-2024-07-03 18:06:00,03-July-2024,06:06 PM,5.0,glucose_measurement
-2024-07-03 18:11:00,03-July-2024,06:11 PM,4.9,glucose_measurement
-2024-07-03 18:16:00,03-July-2024,06:16 PM,4.9,glucose_measurement
-2024-07-03 18:21:00,03-July-2024,06:21 PM,4.9,glucose_measurement
-2024-07-03 18:26:00,03-July-2024,06:26 PM,5.0,glucose_measurement
-2024-07-03 18:31:00,03-July-2024,06:31 PM,5.2,glucose_measurement
-2024-07-03 18:36:00,03-July-2024,06:36 PM,5.2,glucose_measurement
-2024-07-03 18:41:00,03-July-2024,06:41 PM,5.4,glucose_measurement
-2024-07-03 18:46:00,03-July-2024,06:46 PM,5.4,glucose_measurement
-2024-07-03 18:51:00,03-July-2024,06:51 PM,5.5,glucose_measurement
-2024-07-03 18:56:00,03-July-2024,06:56 PM,5.4,glucose_measurement
-2024-07-03 19:01:00,03-July-2024,07:01 PM,5.5,glucose_measurement
-2024-07-03 19:06:00,03-July-2024,07:06 PM,5.7,glucose_measurement
-2024-07-03 19:11:00,03-July-2024,07:11 PM,5.8,glucose_measurement
-2024-07-03 19:16:00,03-July-2024,07:16 PM,5.7,glucose_measurement
-2024-07-03 19:21:00,03-July-2024,07:21 PM,5.7,glucose_measurement
-2024-07-03 19:26:00,03-July-2024,07:26 PM,5.7,glucose_measurement
-2024-07-03 19:31:00,03-July-2024,07:31 PM,5.9,glucose_measurement
-2024-07-03 19:36:00,03-July-2024,07:36 PM,6.1,glucose_measurement
-2024-07-03 19:41:00,03-July-2024,07:41 PM,6.3,glucose_measurement
-2024-07-03 19:46:00,03-July-2024,07:46 PM,6.3,glucose_measurement
-2024-07-03 19:51:00,03-July-2024,07:51 PM,6.4,glucose_measurement
-2024-07-03 19:56:00,03-July-2024,07:56 PM,6.7,glucose_measurement
-2024-07-03 20:01:00,03-July-2024,08:01 PM,6.9,glucose_measurement
-2024-07-03 20:06:00,03-July-2024,08:06 PM,7.0,glucose_measurement
-2024-07-03 20:11:00,03-July-2024,08:11 PM,6.9,glucose_measurement
-2024-07-03 20:16:00,03-July-2024,08:16 PM,6.8,glucose_measurement
-2024-07-03 20:21:00,03-July-2024,08:21 PM,6.5,glucose_measurement
-2024-07-03 20:26:00,03-July-2024,08:26 PM,6.4,glucose_measurement
-2024-07-03 20:31:00,03-July-2024,08:31 PM,6.4,glucose_measurement
-2024-07-03 20:36:00,03-July-2024,08:36 PM,6.5,glucose_measurement
-2024-07-03 20:41:00,03-July-2024,08:41 PM,6.4,glucose_measurement
-2024-07-03 20:46:00,03-July-2024,08:46 PM,6.3,glucose_measurement
-2024-07-03 20:51:00,03-July-2024,08:51 PM,6.1,glucose_measurement
-2024-07-03 20:56:00,03-July-2024,08:56 PM,6.0,glucose_measurement
-2024-07-03 21:01:00,03-July-2024,09:01 PM,6.0,glucose_measurement
-2024-07-03 21:06:00,03-July-2024,09:06 PM,5.7,glucose_measurement
-2024-07-03 21:11:00,03-July-2024,09:11 PM,5.8,glucose_measurement
-2024-07-03 21:16:00,03-July-2024,09:16 PM,5.7,glucose_measurement
-2024-07-03 21:21:00,03-July-2024,09:21 PM,5.5,glucose_measurement
-2024-07-03 21:26:00,03-July-2024,09:26 PM,5.3,glucose_measurement
-2024-07-03 21:31:00,03-July-2024,09:31 PM,5.2,glucose_measurement
-2024-07-03 21:36:00,03-July-2024,09:36 PM,5.2,glucose_measurement
-2024-07-03 21:41:00,03-July-2024,09:41 PM,5.0,glucose_measurement
-2024-07-03 21:46:00,03-July-2024,09:46 PM,5.1,glucose_measurement
-2024-07-03 21:51:00,03-July-2024,09:51 PM,5.0,glucose_measurement
-2024-07-03 21:56:00,03-July-2024,09:56 PM,4.8,glucose_measurement
-2024-07-03 22:01:00,03-July-2024,10:01 PM,4.6,glucose_measurement
-2024-07-03 22:06:00,03-July-2024,10:06 PM,4.5,glucose_measurement
-2024-07-03 22:11:00,03-July-2024,10:11 PM,4.4,glucose_measurement
-2024-07-03 22:16:00,03-July-2024,10:16 PM,4.1,glucose_measurement
-2024-07-03 22:21:00,03-July-2024,10:21 PM,4.1,glucose_measurement
-2024-07-03 22:26:00,03-July-2024,10:26 PM,3.9,glucose_measurement
-2024-07-03 22:31:00,03-July-2024,10:31 PM,10.0,slow_glucose_g
-2024-07-03 22:31:00,03-July-2024,10:31 PM,3.8,glucose_measurement
-2024-07-03 22:36:00,03-July-2024,10:36 PM,3.7,glucose_measurement
-2024-07-03 22:41:00,03-July-2024,10:41 PM,3.5,glucose_measurement
-2024-07-03 22:46:00,03-July-2024,10:46 PM,3.3,glucose_measurement
-2024-07-03 22:51:00,03-July-2024,10:51 PM,3.3,glucose_measurement
-2024-07-03 22:56:00,03-July-2024,10:56 PM,3.3,glucose_measurement
-2024-07-03 23:01:00,03-July-2024,11:01 PM,3.4,glucose_measurement
-2024-07-03 23:06:00,03-July-2024,11:06 PM,3.6,glucose_measurement
-2024-07-03 23:11:00,03-July-2024,11:11 PM,3.8,glucose_measurement
-2024-07-03 23:16:00,03-July-2024,11:16 PM,4.0,glucose_measurement
-2024-07-03 23:21:00,03-July-2024,11:21 PM,4.3,glucose_measurement
-2024-07-03 23:26:00,03-July-2024,11:26 PM,4.6,glucose_measurement
-2024-07-03 23:31:00,03-July-2024,11:31 PM,4.8,glucose_measurement
-2024-07-03 23:36:00,03-July-2024,11:36 PM,5.0,glucose_measurement
-2024-07-03 23:41:00,03-July-2024,11:41 PM,5.0,glucose_measurement
-2024-07-03 23:46:00,03-July-2024,11:46 PM,5.0,glucose_measurement
-2024-07-03 23:51:00,03-July-2024,11:51 PM,5.0,glucose_measurement
-2024-07-03 23:56:00,03-July-2024,11:56 PM,5.1,glucose_measurement
-2024-07-04 00:01:00,04-July-2024,12:01 AM,5.2,glucose_measurement
-2024-07-04 00:06:00,04-July-2024,12:06 AM,5.4,glucose_measurement
-2024-07-04 00:11:00,04-July-2024,12:11 AM,5.5,glucose_measurement
-2024-07-04 00:16:00,04-July-2024,12:16 AM,5.4,glucose_measurement
-2024-07-04 00:21:00,04-July-2024,12:21 AM,5.3,glucose_measurement
-2024-07-04 00:26:00,04-July-2024,12:26 AM,5.3,glucose_measurement
-2024-07-04 00:31:00,04-July-2024,12:31 AM,5.3,glucose_measurement
-2024-07-04 00:36:00,04-July-2024,12:36 AM,5.3,glucose_measurement
-2024-07-04 00:41:00,04-July-2024,12:41 AM,5.4,glucose_measurement
-2024-07-04 00:46:00,04-July-2024,12:46 AM,5.7,glucose_measurement
-2024-07-04 00:51:00,04-July-2024,12:51 AM,5.9,glucose_measurement
-2024-07-04 00:56:00,04-July-2024,12:56 AM,5.7,glucose_measurement
-2024-07-04 01:01:00,04-July-2024,01:01 AM,5.6,glucose_measurement
-2024-07-04 01:06:00,04-July-2024,01:06 AM,5.5,glucose_measurement
-2024-07-04 01:11:00,04-July-2024,01:11 AM,5.2,glucose_measurement
-2024-07-04 01:16:00,04-July-2024,01:16 AM,5.1,glucose_measurement
-2024-07-04 01:21:00,04-July-2024,01:21 AM,5.2,glucose_measurement
-2024-07-04 01:26:00,04-July-2024,01:26 AM,5.4,glucose_measurement
-2024-07-04 01:31:00,04-July-2024,01:31 AM,5.5,glucose_measurement
-2024-07-04 01:36:00,04-July-2024,01:36 AM,5.4,glucose_measurement
-2024-07-04 01:41:00,04-July-2024,01:41 AM,5.3,glucose_measurement
-2024-07-04 01:46:00,04-July-2024,01:46 AM,5.1,glucose_measurement
-2024-07-04 01:51:00,04-July-2024,01:51 AM,5.1,glucose_measurement
-2024-07-04 01:56:00,04-July-2024,01:56 AM,5.1,glucose_measurement
-2024-07-04 02:01:00,04-July-2024,02:01 AM,5.0,glucose_measurement
-2024-07-04 02:06:00,04-July-2024,02:06 AM,4.9,glucose_measurement
-2024-07-04 02:11:00,04-July-2024,02:11 AM,4.7,glucose_measurement
-2024-07-04 02:16:00,04-July-2024,02:16 AM,4.7,glucose_measurement
-2024-07-04 02:21:00,04-July-2024,02:21 AM,4.6,glucose_measurement
-2024-07-04 02:26:00,04-July-2024,02:26 AM,4.6,glucose_measurement
-2024-07-04 02:31:00,04-July-2024,02:31 AM,4.4,glucose_measurement
-2024-07-04 02:36:00,04-July-2024,02:36 AM,4.4,glucose_measurement
-2024-07-04 02:41:00,04-July-2024,02:41 AM,4.3,glucose_measurement
-2024-07-04 02:46:00,04-July-2024,02:46 AM,4.2,glucose_measurement
-2024-07-04 02:51:00,04-July-2024,02:51 AM,3.9,glucose_measurement
-2024-07-04 02:56:00,04-July-2024,02:56 AM,3.8,glucose_measurement
-2024-07-04 03:01:00,04-July-2024,03:01 AM,3.8,glucose_measurement
-2024-07-04 03:06:00,04-July-2024,03:06 AM,3.9,glucose_measurement
-2024-07-04 03:11:00,04-July-2024,03:11 AM,3.8,glucose_measurement
-2024-07-04 03:16:00,04-July-2024,03:16 AM,3.8,glucose_measurement
-2024-07-04 03:21:00,04-July-2024,03:21 AM,3.7,glucose_measurement
-2024-07-04 03:26:00,04-July-2024,03:26 AM,3.6,glucose_measurement
-2024-07-04 03:31:00,04-July-2024,03:31 AM,3.7,glucose_measurement
-2024-07-04 03:36:00,04-July-2024,03:36 AM,3.6,glucose_measurement
-2024-07-04 03:41:00,04-July-2024,03:41 AM,3.6,glucose_measurement
-2024-07-04 03:46:00,04-July-2024,03:46 AM,3.5,glucose_measurement
-2024-07-04 03:51:00,04-July-2024,03:51 AM,3.4,glucose_measurement
-2024-07-04 03:56:00,04-July-2024,03:56 AM,3.4,glucose_measurement
-2024-07-04 04:01:00,04-July-2024,04:01 AM,3.3,glucose_measurement
-2024-07-04 04:06:00,04-July-2024,04:06 AM,3.2,glucose_measurement
-2024-07-04 04:11:00,04-July-2024,04:11 AM,3.2,glucose_measurement
-2024-07-04 04:16:00,04-July-2024,04:16 AM,3.3,glucose_measurement
-2024-07-04 04:21:00,04-July-2024,04:21 AM,3.3,glucose_measurement
-2024-07-04 04:26:00,04-July-2024,04:26 AM,3.3,glucose_measurement
-2024-07-04 04:31:00,04-July-2024,04:31 AM,3.4,glucose_measurement
-2024-07-04 04:36:00,04-July-2024,04:36 AM,3.5,glucose_measurement
-2024-07-04 04:36:00,04-July-2024,04:36 AM,10.0,rapid_glucose_g
-2024-07-04 04:41:00,04-July-2024,04:41 AM,3.3,glucose_measurement
-2024-07-04 04:46:00,04-July-2024,04:46 AM,3.1,glucose_measurement
-2024-07-04 04:51:00,04-July-2024,04:51 AM,3.1,glucose_measurement
-2024-07-04 04:56:00,04-July-2024,04:56 AM,3.2,glucose_measurement
-2024-07-04 05:01:00,04-July-2024,05:01 AM,3.3,glucose_measurement
-2024-07-04 05:06:00,04-July-2024,05:06 AM,3.4,glucose_measurement
-2024-07-04 05:11:00,04-July-2024,05:11 AM,3.7,glucose_measurement
-2024-07-04 05:16:00,04-July-2024,05:16 AM,4.1,glucose_measurement
-2024-07-04 05:21:00,04-July-2024,05:21 AM,4.3,glucose_measurement
-2024-07-04 05:26:00,04-July-2024,05:26 AM,4.6,glucose_measurement
-2024-07-04 05:31:00,04-July-2024,05:31 AM,4.8,glucose_measurement
-2024-07-04 05:36:00,04-July-2024,05:36 AM,4.9,glucose_measurement
-2024-07-04 05:41:00,04-July-2024,05:41 AM,4.9,glucose_measurement
-2024-07-04 05:46:00,04-July-2024,05:46 AM,5.1,glucose_measurement
-2024-07-04 05:51:00,04-July-2024,05:51 AM,5.3,glucose_measurement
-2024-07-04 05:56:00,04-July-2024,05:56 AM,5.3,glucose_measurement
-2024-07-04 06:01:00,04-July-2024,06:01 AM,5.2,glucose_measurement
-2024-07-04 06:06:00,04-July-2024,06:06 AM,5.2,glucose_measurement
-2024-07-04 06:11:00,04-July-2024,06:11 AM,5.2,glucose_measurement
-2024-07-04 06:16:00,04-July-2024,06:16 AM,5.3,glucose_measurement
-2024-07-04 06:21:00,04-July-2024,06:21 AM,5.3,glucose_measurement
-2024-07-04 06:26:00,04-July-2024,06:26 AM,5.2,glucose_measurement
-2024-07-04 06:31:00,04-July-2024,06:31 AM,4.9,glucose_measurement
-2024-07-04 06:36:00,04-July-2024,06:36 AM,4.8,glucose_measurement
-2024-07-04 06:41:00,04-July-2024,06:41 AM,4.8,glucose_measurement
-2024-07-04 06:46:00,04-July-2024,06:46 AM,4.8,glucose_measurement
-2024-07-04 06:51:00,04-July-2024,06:51 AM,4.7,glucose_measurement
-2024-07-04 06:56:00,04-July-2024,06:56 AM,4.7,glucose_measurement
-2024-07-04 07:01:00,04-July-2024,07:01 AM,4.6,glucose_measurement
-2024-07-04 07:06:00,04-July-2024,07:06 AM,4.4,glucose_measurement
-2024-07-04 07:11:00,04-July-2024,07:11 AM,4.5,glucose_measurement
-2024-07-04 07:16:00,04-July-2024,07:16 AM,4.6,glucose_measurement
-2024-07-04 07:21:00,04-July-2024,07:21 AM,4.6,glucose_measurement
-2024-07-04 07:26:00,04-July-2024,07:26 AM,4.4,glucose_measurement
-2024-07-04 07:31:00,04-July-2024,07:31 AM,4.4,glucose_measurement
-2024-07-04 07:36:00,04-July-2024,07:36 AM,4.2,glucose_measurement
-2024-07-04 07:41:00,04-July-2024,07:41 AM,4.3,glucose_measurement
-2024-07-04 07:46:00,04-July-2024,07:46 AM,3.9,glucose_measurement
-2024-07-04 07:51:00,04-July-2024,07:51 AM,3.7,glucose_measurement
-2024-07-04 07:54:00,04-July-2024,07:54 AM,4.1,calibration
-2024-07-04 07:56:00,04-July-2024,07:56 AM,3.7,glucose_measurement
-2024-07-04 07:58:00,04-July-2024,07:58 AM,17.0,long_insulin_u
+,Value,EventType,calibrated_glucose
+2024-07-03 06:01:00,12.4,glucose_measurement,12.920505415162454
+2024-07-03 06:06:00,12.5,glucose_measurement,13.02245487364621
+2024-07-03 06:11:00,12.7,glucose_measurement,13.224404332129962
+2024-07-03 06:16:00,12.4,glucose_measurement,12.926353790613717
+2024-07-03 06:21:00,12.4,glucose_measurement,12.928303249097473
+2024-07-03 06:26:00,12.3,glucose_measurement,12.830252707581227
+2024-07-03 06:31:00,12.0,glucose_measurement,12.53220216606498
+2024-07-03 06:36:00,11.8,glucose_measurement,12.334151624548737
+2024-07-03 06:40:00,12.1,calibration,
+2024-07-03 06:41:00,11.5,glucose_measurement,11.85740072202166
+2024-07-03 06:42:00,17.0,long_insulin_u,
+2024-07-03 06:44:00,3.0,rapid_insulin_u,
+2024-07-03 06:46:00,12.0,glucose_measurement,12.179350180505415
+2024-07-03 06:51:00,12.2,glucose_measurement,12.2
+2024-07-03 06:56:00,12.2,glucose_measurement,12.201320132013201
+2024-07-03 07:01:00,12.2,glucose_measurement,12.202640264026401
+2024-07-03 07:06:00,12.2,glucose_measurement,12.203960396039603
+2024-07-03 07:11:00,12.0,glucose_measurement,12.005280528052806
+2024-07-03 07:16:00,12.0,glucose_measurement,12.006600660066006
+2024-07-03 07:21:00,11.9,glucose_measurement,11.907920792079208
+2024-07-03 07:26:00,12.0,glucose_measurement,12.00924092409241
+2024-07-03 07:31:00,11.8,glucose_measurement,11.81056105610561
+2024-07-03 07:36:00,11.5,glucose_measurement,11.511881188118812
+2024-07-03 07:41:00,11.1,glucose_measurement,11.113201320132013
+2024-07-03 07:46:00,10.9,glucose_measurement,10.914521452145214
+2024-07-03 07:51:00,10.7,glucose_measurement,10.715841584158415
+2024-07-03 07:56:00,10.3,glucose_measurement,10.317161716171618
+2024-07-03 08:01:00,9.8,glucose_measurement,9.818481848184819
+2024-07-03 08:06:00,9.7,glucose_measurement,9.719801980198019
+2024-07-03 08:11:00,9.6,glucose_measurement,9.621122112211221
+2024-07-03 08:16:00,9.4,glucose_measurement,9.422442244224422
+2024-07-03 08:21:00,9.2,glucose_measurement,9.223762376237623
+2024-07-03 08:26:00,9.1,glucose_measurement,9.125082508250825
+2024-07-03 08:31:00,8.8,glucose_measurement,8.826402640264027
+2024-07-03 08:36:00,8.5,glucose_measurement,8.527722772277228
+2024-07-03 08:41:00,8.5,glucose_measurement,8.52904290429043
+2024-07-03 08:46:00,8.4,glucose_measurement,8.43036303630363
+2024-07-03 08:51:00,8.1,glucose_measurement,8.131683168316831
+2024-07-03 08:56:00,7.9,glucose_measurement,7.933003300330033
+2024-07-03 09:01:00,7.9,glucose_measurement,7.934323432343235
+2024-07-03 09:06:00,7.9,glucose_measurement,7.935643564356436
+2024-07-03 09:11:00,7.5,glucose_measurement,7.536963696369637
+2024-07-03 09:16:00,7.4,glucose_measurement,7.438283828382839
+2024-07-03 09:21:00,7.3,glucose_measurement,7.3396039603960395
+2024-07-03 09:26:00,7.2,glucose_measurement,7.240924092409241
+2024-07-03 09:31:00,7.2,glucose_measurement,7.242244224422443
+2024-07-03 09:36:00,6.9,glucose_measurement,6.943564356435644
+2024-07-03 09:41:00,6.8,glucose_measurement,6.8448844884488445
+2024-07-03 09:46:00,6.7,glucose_measurement,6.746204620462047
+2024-07-03 09:51:00,6.5,glucose_measurement,6.547524752475248
+2024-07-03 09:56:00,6.5,glucose_measurement,6.548844884488449
+2024-07-03 10:01:00,6.5,glucose_measurement,6.5501650165016505
+2024-07-03 10:06:00,6.5,glucose_measurement,6.5514851485148515
+2024-07-03 10:11:00,6.4,glucose_measurement,6.452805280528053
+2024-07-03 10:16:00,6.3,glucose_measurement,6.354125412541254
+2024-07-03 10:21:00,6.1,glucose_measurement,6.155445544554455
+2024-07-03 10:26:00,6.2,glucose_measurement,6.256765676567657
+2024-07-03 10:31:00,6.2,glucose_measurement,6.258085808580859
+2024-07-03 10:36:00,6.1,glucose_measurement,6.159405940594059
+2024-07-03 10:41:00,5.9,glucose_measurement,5.960726072607261
+2024-07-03 10:46:00,6.0,glucose_measurement,6.062046204620462
+2024-07-03 10:51:00,6.0,glucose_measurement,6.063366336633663
+2024-07-03 10:56:00,6.0,glucose_measurement,6.0646864686468644
+2024-07-03 11:01:00,5.9,glucose_measurement,5.966006600660066
+2024-07-03 11:06:00,5.8,glucose_measurement,5.867326732673267
+2024-07-03 11:11:00,5.7,glucose_measurement,5.768646864686469
+2024-07-03 11:16:00,5.7,glucose_measurement,5.7699669966996705
+2024-07-03 11:21:00,5.7,glucose_measurement,5.7712871287128715
+2024-07-03 11:26:00,5.5,glucose_measurement,5.572607260726072
+2024-07-03 11:31:00,5.5,glucose_measurement,5.573927392739273
+2024-07-03 11:36:00,5.5,glucose_measurement,5.575247524752475
+2024-07-03 11:41:00,5.6,glucose_measurement,5.676567656765676
+2024-07-03 11:46:00,5.6,glucose_measurement,5.677887788778877
+2024-07-03 11:51:00,5.5,glucose_measurement,5.579207920792079
+2024-07-03 11:56:00,5.4,glucose_measurement,5.480528052805281
+2024-07-03 12:01:00,5.4,glucose_measurement,5.481848184818482
+2024-07-03 12:06:00,5.3,glucose_measurement,5.383168316831683
+2024-07-03 12:10:00,40.0,medium_exercise_min,
+2024-07-03 12:11:00,5.2,glucose_measurement,5.2844884488448844
+2024-07-03 12:16:00,5.3,glucose_measurement,5.385808580858085
+2024-07-03 12:21:00,5.2,glucose_measurement,5.287128712871287
+2024-07-03 12:26:00,5.0,glucose_measurement,5.088448844884488
+2024-07-03 12:31:00,4.9,glucose_measurement,4.98976897689769
+2024-07-03 12:36:00,4.9,glucose_measurement,4.9910891089108915
+2024-07-03 12:41:00,4.9,glucose_measurement,4.9924092409240926
+2024-07-03 12:46:00,4.9,glucose_measurement,4.993729372937294
+2024-07-03 12:51:00,4.8,glucose_measurement,4.895049504950495
+2024-07-03 12:56:00,4.7,glucose_measurement,4.796369636963696
+2024-07-03 13:01:00,4.5,glucose_measurement,4.597689768976897
+2024-07-03 13:06:00,4.5,glucose_measurement,4.599009900990099
+2024-07-03 13:11:00,4.5,glucose_measurement,4.6003300330033
+2024-07-03 13:16:00,4.3,glucose_measurement,4.401650165016501
+2024-07-03 13:21:00,4.2,glucose_measurement,4.302970297029703
+2024-07-03 13:26:00,4.1,glucose_measurement,4.204290429042904
+2024-07-03 13:31:00,4.1,glucose_measurement,4.205610561056105
+2024-07-03 13:36:00,3.8,glucose_measurement,3.9069306930693064
+2024-07-03 13:38:00,10.0,rapid_glucose_g,
+2024-07-03 13:41:00,3.7,glucose_measurement,3.8082508250825082
+2024-07-03 13:46:00,3.6,glucose_measurement,3.7095709570957096
+2024-07-03 13:51:00,3.6,glucose_measurement,3.7108910891089106
+2024-07-03 13:56:00,3.4,glucose_measurement,3.512211221122112
+2024-07-03 14:01:00,3.4,glucose_measurement,3.5135313531353134
+2024-07-03 14:06:00,3.8,glucose_measurement,3.9148514851485143
+2024-07-03 14:11:00,4.6,glucose_measurement,4.716171617161716
+2024-07-03 14:16:00,5.2,glucose_measurement,5.317491749174917
+2024-07-03 14:21:00,5.3,glucose_measurement,5.418811881188119
+2024-07-03 14:26:00,5.6,glucose_measurement,5.72013201320132
+2024-07-03 14:31:00,5.8,glucose_measurement,5.921452145214521
+2024-07-03 14:36:00,6.3,glucose_measurement,6.422772277227723
+2024-07-03 14:41:00,6.8,glucose_measurement,6.924092409240924
+2024-07-03 14:46:00,7.2,glucose_measurement,7.325412541254125
+2024-07-03 14:51:00,7.3,glucose_measurement,7.426732673267327
+2024-07-03 14:56:00,7.4,glucose_measurement,7.528052805280528
+2024-07-03 15:01:00,7.3,glucose_measurement,7.429372937293729
+2024-07-03 15:06:00,7.2,glucose_measurement,7.330693069306931
+2024-07-03 15:11:00,6.9,glucose_measurement,7.032013201320132
+2024-07-03 15:16:00,6.9,glucose_measurement,7.033333333333333
+2024-07-03 15:21:00,6.8,glucose_measurement,6.934653465346535
+2024-07-03 15:26:00,6.8,glucose_measurement,6.935973597359736
+2024-07-03 15:31:00,6.7,glucose_measurement,6.837293729372937
+2024-07-03 15:36:00,6.7,glucose_measurement,6.838613861386139
+2024-07-03 15:41:00,6.5,glucose_measurement,6.63993399339934
+2024-07-03 15:46:00,6.6,glucose_measurement,6.74125412541254
+2024-07-03 15:51:00,6.4,glucose_measurement,6.542574257425743
+2024-07-03 15:56:00,6.5,glucose_measurement,6.643894389438944
+2024-07-03 16:01:00,6.4,glucose_measurement,6.545214521452145
+2024-07-03 16:06:00,6.4,glucose_measurement,6.546534653465347
+2024-07-03 16:11:00,6.3,glucose_measurement,6.4478547854785475
+2024-07-03 16:16:00,6.3,glucose_measurement,6.4491749174917485
+2024-07-03 16:21:00,6.2,glucose_measurement,6.350495049504951
+2024-07-03 16:26:00,6.2,glucose_measurement,6.351815181518152
+2024-07-03 16:31:00,6.0,glucose_measurement,6.153135313531353
+2024-07-03 16:36:00,6.2,glucose_measurement,6.354455445544555
+2024-07-03 16:41:00,6.1,glucose_measurement,6.255775577557755
+2024-07-03 16:46:00,6.0,glucose_measurement,6.157095709570957
+2024-07-03 16:51:00,5.9,glucose_measurement,6.058415841584159
+2024-07-03 16:56:00,5.9,glucose_measurement,6.05973597359736
+2024-07-03 17:01:00,5.9,glucose_measurement,6.061056105610561
+2024-07-03 17:06:00,5.8,glucose_measurement,5.962376237623762
+2024-07-03 17:11:00,5.7,glucose_measurement,5.863696369636964
+2024-07-03 17:16:00,5.6,glucose_measurement,5.765016501650164
+2024-07-03 17:21:00,5.5,glucose_measurement,5.6663366336633665
+2024-07-03 17:26:00,5.5,glucose_measurement,5.6676567656765675
+2024-07-03 17:31:00,5.5,glucose_measurement,5.6689768976897685
+2024-07-03 17:36:00,5.4,glucose_measurement,5.570297029702971
+2024-07-03 17:41:00,5.3,glucose_measurement,5.471617161716171
+2024-07-03 17:46:00,5.2,glucose_measurement,5.372937293729373
+2024-07-03 17:51:00,5.1,glucose_measurement,5.274257425742574
+2024-07-03 17:56:00,10.0,rapid_glucose_g,
+2024-07-03 17:56:00,5.1,glucose_measurement,5.275577557755775
+2024-07-03 18:00:00,60.0,high_exercise_min,
+2024-07-03 18:01:00,5.0,glucose_measurement,5.1768976897689765
+2024-07-03 18:06:00,5.0,glucose_measurement,5.178217821782178
+2024-07-03 18:11:00,4.9,glucose_measurement,5.07953795379538
+2024-07-03 18:16:00,4.9,glucose_measurement,5.080858085808581
+2024-07-03 18:21:00,4.9,glucose_measurement,5.082178217821783
+2024-07-03 18:26:00,5.0,glucose_measurement,5.183498349834983
+2024-07-03 18:31:00,5.2,glucose_measurement,5.384818481848185
+2024-07-03 18:36:00,5.2,glucose_measurement,5.3861386138613865
+2024-07-03 18:41:00,5.4,glucose_measurement,5.587458745874588
+2024-07-03 18:46:00,5.4,glucose_measurement,5.588778877887789
+2024-07-03 18:51:00,5.5,glucose_measurement,5.69009900990099
+2024-07-03 18:56:00,5.4,glucose_measurement,5.591419141914192
+2024-07-03 19:01:00,5.5,glucose_measurement,5.692739273927392
+2024-07-03 19:06:00,5.7,glucose_measurement,5.894059405940594
+2024-07-03 19:11:00,5.8,glucose_measurement,5.995379537953795
+2024-07-03 19:16:00,5.7,glucose_measurement,5.8966996699669965
+2024-07-03 19:21:00,5.7,glucose_measurement,5.8980198019801975
+2024-07-03 19:26:00,5.7,glucose_measurement,5.899339933993399
+2024-07-03 19:31:00,5.9,glucose_measurement,6.100660066006601
+2024-07-03 19:36:00,6.1,glucose_measurement,6.301980198019802
+2024-07-03 19:41:00,6.3,glucose_measurement,6.503300330033003
+2024-07-03 19:46:00,6.3,glucose_measurement,6.504620462046204
+2024-07-03 19:51:00,6.4,glucose_measurement,6.6059405940594065
+2024-07-03 19:56:00,6.7,glucose_measurement,6.907260726072607
+2024-07-03 20:01:00,6.9,glucose_measurement,7.1085808580858085
+2024-07-03 20:06:00,7.0,glucose_measurement,7.209900990099009
+2024-07-03 20:11:00,6.9,glucose_measurement,7.1112211221122115
+2024-07-03 20:16:00,6.8,glucose_measurement,7.012541254125412
+2024-07-03 20:21:00,6.5,glucose_measurement,6.713861386138613
+2024-07-03 20:26:00,6.4,glucose_measurement,6.615181518151815
+2024-07-03 20:31:00,6.4,glucose_measurement,6.6165016501650165
+2024-07-03 20:36:00,6.5,glucose_measurement,6.717821782178217
+2024-07-03 20:41:00,6.4,glucose_measurement,6.619141914191419
+2024-07-03 20:46:00,6.3,glucose_measurement,6.52046204620462
+2024-07-03 20:51:00,6.1,glucose_measurement,6.321782178217821
+2024-07-03 20:56:00,6.0,glucose_measurement,6.223102310231023
+2024-07-03 21:01:00,6.0,glucose_measurement,6.224422442244224
+2024-07-03 21:06:00,5.7,glucose_measurement,5.925742574257425
+2024-07-03 21:11:00,5.8,glucose_measurement,6.027062706270627
+2024-07-03 21:16:00,5.7,glucose_measurement,5.928382838283828
+2024-07-03 21:21:00,5.5,glucose_measurement,5.729702970297029
+2024-07-03 21:26:00,5.3,glucose_measurement,5.531023102310231
+2024-07-03 21:31:00,5.2,glucose_measurement,5.432343234323432
+2024-07-03 21:36:00,5.2,glucose_measurement,5.433663366336633
+2024-07-03 21:41:00,5.0,glucose_measurement,5.234983498349835
+2024-07-03 21:46:00,5.1,glucose_measurement,5.336303630363036
+2024-07-03 21:51:00,5.0,glucose_measurement,5.237623762376237
+2024-07-03 21:56:00,4.8,glucose_measurement,5.038943894389439
+2024-07-03 22:01:00,4.6,glucose_measurement,4.8402640264026395
+2024-07-03 22:06:00,4.5,glucose_measurement,4.741584158415841
+2024-07-03 22:11:00,4.4,glucose_measurement,4.642904290429043
+2024-07-03 22:16:00,4.1,glucose_measurement,4.3442244224422435
+2024-07-03 22:21:00,4.1,glucose_measurement,4.3455445544554445
+2024-07-03 22:26:00,3.9,glucose_measurement,4.146864686468646
+2024-07-03 22:31:00,10.0,slow_glucose_g,
+2024-07-03 22:31:00,3.8,glucose_measurement,4.048184818481848
+2024-07-03 22:36:00,3.7,glucose_measurement,3.9495049504950495
+2024-07-03 22:41:00,3.5,glucose_measurement,3.7508250825082503
+2024-07-03 22:46:00,3.3,glucose_measurement,3.5521452145214516
+2024-07-03 22:51:00,3.3,glucose_measurement,3.553465346534653
+2024-07-03 22:56:00,3.3,glucose_measurement,3.554785478547854
+2024-07-03 23:01:00,3.4,glucose_measurement,3.6561056105610557
+2024-07-03 23:06:00,3.6,glucose_measurement,3.8574257425742573
+2024-07-03 23:11:00,3.8,glucose_measurement,4.0587458745874585
+2024-07-03 23:16:00,4.0,glucose_measurement,4.26006600660066
+2024-07-03 23:21:00,4.3,glucose_measurement,4.5613861386138606
+2024-07-03 23:26:00,4.6,glucose_measurement,4.862706270627062
+2024-07-03 23:31:00,4.8,glucose_measurement,5.0640264026402635
+2024-07-03 23:36:00,5.0,glucose_measurement,5.265346534653465
+2024-07-03 23:41:00,5.0,glucose_measurement,5.266666666666667
+2024-07-03 23:46:00,5.0,glucose_measurement,5.267986798679868
+2024-07-03 23:51:00,5.0,glucose_measurement,5.269306930693069
+2024-07-03 23:56:00,5.1,glucose_measurement,5.37062706270627
+2024-07-04 00:01:00,5.2,glucose_measurement,5.471947194719472
+2024-07-04 00:06:00,5.4,glucose_measurement,5.673267326732673
+2024-07-04 00:11:00,5.5,glucose_measurement,5.7745874587458745
+2024-07-04 00:16:00,5.4,glucose_measurement,5.675907590759076
+2024-07-04 00:21:00,5.3,glucose_measurement,5.577227722772276
+2024-07-04 00:26:00,5.3,glucose_measurement,5.578547854785478
+2024-07-04 00:31:00,5.3,glucose_measurement,5.579867986798679
+2024-07-04 00:36:00,5.3,glucose_measurement,5.58118811881188
+2024-07-04 00:41:00,5.4,glucose_measurement,5.682508250825083
+2024-07-04 00:46:00,5.7,glucose_measurement,5.983828382838284
+2024-07-04 00:51:00,5.9,glucose_measurement,6.185148514851485
+2024-07-04 00:56:00,5.7,glucose_measurement,5.986468646864687
+2024-07-04 01:01:00,5.6,glucose_measurement,5.887788778877887
+2024-07-04 01:06:00,5.5,glucose_measurement,5.7891089108910885
+2024-07-04 01:11:00,5.2,glucose_measurement,5.490429042904291
+2024-07-04 01:16:00,5.1,glucose_measurement,5.391749174917491
+2024-07-04 01:21:00,5.2,glucose_measurement,5.493069306930693
+2024-07-04 01:26:00,5.4,glucose_measurement,5.694389438943895
+2024-07-04 01:31:00,5.5,glucose_measurement,5.795709570957095
+2024-07-04 01:36:00,5.4,glucose_measurement,5.697029702970297
+2024-07-04 01:41:00,5.3,glucose_measurement,5.598349834983498
+2024-07-04 01:46:00,5.1,glucose_measurement,5.399669966996699
+2024-07-04 01:51:00,5.1,glucose_measurement,5.4009900990099
+2024-07-04 01:56:00,5.1,glucose_measurement,5.402310231023102
+2024-07-04 02:01:00,5.0,glucose_measurement,5.303630363036303
+2024-07-04 02:06:00,4.9,glucose_measurement,5.204950495049505
+2024-07-04 02:11:00,4.7,glucose_measurement,5.006270627062706
+2024-07-04 02:16:00,4.7,glucose_measurement,5.0075907590759074
+2024-07-04 02:21:00,4.6,glucose_measurement,4.908910891089108
+2024-07-04 02:26:00,4.6,glucose_measurement,4.91023102310231
+2024-07-04 02:31:00,4.4,glucose_measurement,4.711551155115512
+2024-07-04 02:36:00,4.4,glucose_measurement,4.712871287128713
+2024-07-04 02:41:00,4.3,glucose_measurement,4.614191419141914
+2024-07-04 02:46:00,4.2,glucose_measurement,4.515511551155115
+2024-07-04 02:51:00,3.9,glucose_measurement,4.216831683168317
+2024-07-04 02:56:00,3.8,glucose_measurement,4.118151815181518
+2024-07-04 03:01:00,3.8,glucose_measurement,4.119471947194719
+2024-07-04 03:06:00,3.9,glucose_measurement,4.2207920792079205
+2024-07-04 03:11:00,3.8,glucose_measurement,4.122112211221122
+2024-07-04 03:16:00,3.8,glucose_measurement,4.123432343234323
+2024-07-04 03:21:00,3.7,glucose_measurement,4.024752475247524
+2024-07-04 03:26:00,3.6,glucose_measurement,3.9260726072607257
+2024-07-04 03:31:00,3.7,glucose_measurement,4.027392739273927
+2024-07-04 03:36:00,3.6,glucose_measurement,3.928712871287128
+2024-07-04 03:41:00,3.6,glucose_measurement,3.9300330033003297
+2024-07-04 03:46:00,3.5,glucose_measurement,3.831353135313531
+2024-07-04 03:51:00,3.4,glucose_measurement,3.732673267326732
+2024-07-04 03:56:00,3.4,glucose_measurement,3.7339933993399335
+2024-07-04 04:01:00,3.3,glucose_measurement,3.635313531353135
+2024-07-04 04:06:00,3.2,glucose_measurement,3.5366336633663362
+2024-07-04 04:11:00,3.2,glucose_measurement,3.5379537953795377
+2024-07-04 04:16:00,3.3,glucose_measurement,3.639273927392739
+2024-07-04 04:21:00,3.3,glucose_measurement,3.64059405940594
+2024-07-04 04:26:00,3.3,glucose_measurement,3.6419141914191413
+2024-07-04 04:31:00,3.4,glucose_measurement,3.743234323432343
+2024-07-04 04:36:00,3.5,glucose_measurement,3.844554455445544
+2024-07-04 04:36:00,10.0,rapid_glucose_g,
+2024-07-04 04:41:00,3.3,glucose_measurement,3.6458745874587453
+2024-07-04 04:46:00,3.1,glucose_measurement,3.447194719471947
+2024-07-04 04:51:00,3.1,glucose_measurement,3.448514851485148
+2024-07-04 04:56:00,3.2,glucose_measurement,3.5498349834983496
+2024-07-04 05:01:00,3.3,glucose_measurement,3.6511551155115507
+2024-07-04 05:06:00,3.4,glucose_measurement,3.752475247524752
+2024-07-04 05:11:00,3.7,glucose_measurement,4.053795379537953
+2024-07-04 05:16:00,4.1,glucose_measurement,4.4551155115511545
+2024-07-04 05:21:00,4.3,glucose_measurement,4.656435643564356
+2024-07-04 05:26:00,4.6,glucose_measurement,4.9577557755775565
+2024-07-04 05:31:00,4.8,glucose_measurement,5.159075907590759
+2024-07-04 05:36:00,4.9,glucose_measurement,5.26039603960396
+2024-07-04 05:41:00,4.9,glucose_measurement,5.261716171617161
+2024-07-04 05:46:00,5.1,glucose_measurement,5.463036303630362
+2024-07-04 05:51:00,5.3,glucose_measurement,5.664356435643564
+2024-07-04 05:56:00,5.3,glucose_measurement,5.665676567656765
+2024-07-04 06:01:00,5.2,glucose_measurement,5.566996699669967
+2024-07-04 06:06:00,5.2,glucose_measurement,5.568316831683168
+2024-07-04 06:11:00,5.2,glucose_measurement,5.569636963696369
+2024-07-04 06:16:00,5.3,glucose_measurement,5.6709570957095705
+2024-07-04 06:21:00,5.3,glucose_measurement,5.6722772277227715
+2024-07-04 06:26:00,5.2,glucose_measurement,5.573597359735973
+2024-07-04 06:31:00,4.9,glucose_measurement,5.274917491749175
+2024-07-04 06:36:00,4.8,glucose_measurement,5.1762376237623755
+2024-07-04 06:41:00,4.8,glucose_measurement,5.1775577557755765
+2024-07-04 06:46:00,4.8,glucose_measurement,5.1788778877887784
+2024-07-04 06:51:00,4.7,glucose_measurement,5.08019801980198
+2024-07-04 06:56:00,4.7,glucose_measurement,5.081518151815181
+2024-07-04 07:01:00,4.6,glucose_measurement,4.982838283828382
+2024-07-04 07:06:00,4.4,glucose_measurement,4.784158415841584
+2024-07-04 07:11:00,4.5,glucose_measurement,4.885478547854785
+2024-07-04 07:16:00,4.6,glucose_measurement,4.986798679867986
+2024-07-04 07:21:00,4.6,glucose_measurement,4.988118811881187
+2024-07-04 07:26:00,4.4,glucose_measurement,4.789438943894389
+2024-07-04 07:31:00,4.4,glucose_measurement,4.790759075907591
+2024-07-04 07:36:00,4.2,glucose_measurement,4.592079207920792
+2024-07-04 07:41:00,4.3,glucose_measurement,4.693399339933992
+2024-07-04 07:46:00,3.9,glucose_measurement,4.294719471947194
+2024-07-04 07:51:00,3.7,glucose_measurement,4.096039603960396
+2024-07-04 07:54:00,4.1,calibration,
+2024-07-04 07:56:00,3.7,glucose_measurement,3.9649064906490645
+2024-07-04 07:58:00,17.0,long_insulin_u,
