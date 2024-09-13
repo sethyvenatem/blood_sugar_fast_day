@@ -3,8 +3,6 @@
 *.pyc
 *.spec
 *.zip
-*.csv
-!/fast_day.csv
 *.db
 *.png
 *.xlsx

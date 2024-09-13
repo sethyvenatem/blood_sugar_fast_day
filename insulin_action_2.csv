@@ -1,0 +1,2 @@
+Event start,mae [mmol/l],rmse [mmol/l],Slow drift [mmol/(lh)],Action delay [minutes],Action time scale [minutes],Total glycemia decrease [mmol/l],Time to 20% [hours],Time to 80% [hours]
+2024-07-03 06:44:00,0.09279086866534071,0.12961856679543585,0.5273865261765326,16.103924636155984,66.2636556865169,4.131317684529352,1.0061862720440338,2.249817423396053
