@@ -4,4 +4,4 @@ I am type 1 diabetic and require a constant monitoring of my glycemia (the conce
 
 In this project, I analyse these events with a focus on time scales. In particular, I measure the time-scales on which each components affects my glycemia. Take a look at the analysis and results in the jupyter notebook [fast_day.ipnb](https://github.com/sethyvenatem/blood_sugar_fast_day/blob/main/fast_day.ipynb).
 
-The project is not finished yet. I still have to work on the last part and make the notebook more readable.
+I am not a medical professional. This is a personal project to learn about my diabetes and practice my data analysis skills.
